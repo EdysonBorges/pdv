@@ -1,4 +1,4 @@
-package com.edsonborges.demo;
+package com.edsonborges.pdv;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
